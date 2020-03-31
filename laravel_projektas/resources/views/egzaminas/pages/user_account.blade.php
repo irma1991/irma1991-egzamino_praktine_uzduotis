@@ -28,6 +28,7 @@
                         </thead>
                         <tbody>
                         @foreach($accounts as $account)
+                            @can('user_account', $account)
                             <tr>
                                 <th>{{ $account->name }}</th>
                                 <th>{{ $account->surname }}</th>
@@ -35,6 +36,7 @@
                                 <th>{{ $account->accountBalance }}</th>
                                 <th>{{ $account->accountStatus }}</th>
                             </tr>
+                            @endcan
                         @endforeach
                         </tbody>
                     </table>

@@ -36,7 +36,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="/add_product/">
+                <a class="nav-link " href="/money_transfer/">
                     <i class="material-icons">note_add</i>
                     <span>Operacijos</span>
                 </a>

@@ -21,3 +21,4 @@ Auth::routes();
 Route::get('/', 'HomeController@index');
 Route::get('/home/', 'AccountsController@createAccount');
 Route::get('/user_account/', 'AccountsController@userAccount');
+Route::get('/money_transfer/', 'OperationsController@moneyTransfer');

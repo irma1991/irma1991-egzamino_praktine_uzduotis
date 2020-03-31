@@ -3,11 +3,13 @@
 namespace App\Http\Controllers;
 
 use App\Accounts;
+use Illuminate\Support\Facades\Gate;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 
 class AccountsController extends Controller
 {
+
     public function createAccount(Request $request){
         $account = Accounts::create([
             'name' => 'Irma',
@@ -31,7 +33,7 @@ class AccountsController extends Controller
     }
 
     public function userAccount(){
-        $accounts = Accounts::all();
-        return view ('egzaminas.pages.user_account', compact('accounts'));
+            $accounts = Accounts::all();
+            return view ('egzaminas.pages.user_account', compact('accounts'));
     }
 }
