@@ -38,7 +38,7 @@
             <li class="nav-item">
                 <a class="nav-link " href="/add_product/">
                     <i class="material-icons">note_add</i>
-                    <span>Pridėti produktą</span>
+                    <span>Operacijos</span>
                 </a>
             </li>
             <li class="nav-item">

@@ -2,105 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9e61c76-e906-4787-8f9c-8ebbd4021e77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/app/Http/Controllers/AccountsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/app/Http/Controllers/AccountsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/add-new-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/assets/HTML/add-new-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/components-blog-posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/assets/HTML/components-blog-posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/errors.html" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/assets/HTML/errors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/form-components.html" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/assets/HTML/form-components.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/avatars/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/avatars/0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/avatars/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/avatars/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/avatars/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/avatars/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/avatars/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/avatars/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/10.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/11.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/11.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/12.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/12.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/13.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/13.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/14.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/14.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/15.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/15.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/16.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/16.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/7.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/8.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/content-management/9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/content-management/9.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/shards-dashboards-logo-danger.svg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/shards-dashboards-logo-danger.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/shards-dashboards-logo-info.svg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/shards-dashboards-logo-info.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/shards-dashboards-logo-secondary.svg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/shards-dashboards-logo-secondary.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/shards-dashboards-logo-success.svg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/shards-dashboards-logo-success.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/shards-dashboards-logo-warning.svg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/shards-dashboards-logo-warning.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/images/shards-dashboards-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/images/shards-dashboards-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/assets/HTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/app/app-blog-new-post.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/app/app-blog-new-post.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/app/app-blog-new-post.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/app/app-blog-new-post.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/app/app-blog-overview.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/app/app-blog-overview.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/app/app-blog-overview.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/app/app-blog-overview.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/app/app-components-overview.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/app/app-components-overview.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/app/app-components-overview.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/app/app-components-overview.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/extras.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/extras.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/shards-dashboards.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/shards-dashboards.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/shards-dashboards.1.1.0.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/shards-dashboards.1.1.0.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/scripts/shards-dashboards.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/scripts/shards-dashboards.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/danger.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/danger.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/danger.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/danger.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/info.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/info.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/info.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/info.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/secondary.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/secondary.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/secondary.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/secondary.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/success.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/success.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/success.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/success.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/warning.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/warning.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/accents/warning.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/accents/warning.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/extras.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/extras.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_badge.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_button-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_custom-forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_custom-sliders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_custom-sliders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_images.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_input-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/accent-variations/danger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/accent-variations/danger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/accent-variations/info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/accent-variations/info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/accent-variations/secondary.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/accent-variations/secondary.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/accent-variations/success.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/accent-variations/success.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/accent-variations/warning.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/accent-variations/warning.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/blocks/_main-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/blocks/_main-content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/blocks/_main-footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/blocks/_main-footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/blocks/_main-navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/blocks/_main-navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/blocks/_main-sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/blocks/_main-sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/blocks/_page-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/blocks/_page-header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/components/_card-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/components/_card-post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/components/_error.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/components/_error.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/plugins/_quill.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/plugins/_quill.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/shards-dashboards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/shards-dashboards.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/templates/_blog-add-new-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/templates/_blog-add-new-post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/templates/_blog-overview.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/templates/_blog-overview.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/templates/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/templates/_common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/utilities/_borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/utilities/_borders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/utilities/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/utilities/_general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/scss/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/scss/utilities/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/shards-dashboards.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/shards-dashboards.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/styles/shards-dashboards.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/public/styles/shards-dashboards.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/assets/HTML/tables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/assets/HTML/user-profile-lite.html" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/assets/HTML/user-profile-lite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/main.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/pages/home.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585586932734</updated>
       <workItem from="1585586934055" duration="2881000" />
-      <workItem from="1585632361154" duration="17037000" />
+      <workItem from="1585632361154" duration="17632000" />
     </task>
     <servers />
   </component>
