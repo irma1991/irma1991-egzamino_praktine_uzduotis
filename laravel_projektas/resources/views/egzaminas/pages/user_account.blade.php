@@ -21,9 +21,11 @@
                         <tr>
                             <th scope="col" class="border-0">First Name</th>
                             <th scope="col" class="border-0">Last Name</th>
-                            <th scope="col" class="border-0">Country</th>
-                            <th scope="col" class="border-0">City</th>
-                            <th scope="col" class="border-0">Phone</th>
+                            <th scope="col" class="border-0">accountNumber</th>
+                            <th scope="col" class="border-0">accountBalance</th>
+                            <th scope="col" class="border-0">iplaukos</th>
+                            <th scope="col" class="border-0">islaidos</th>
+                            <th scope="col" class="border-0">accountStatus</th>
                         </tr>
                         </thead>
                         <tbody>
@@ -34,6 +36,8 @@
                                 <th>{{ $account->surname }}</th>
                                 <th>{{ $account->accountNumber }}</th>
                                 <th>{{ $account->accountBalance }}</th>
+                                <th>{{ $account->iplaukos }}</th>
+                                <th>{{ $account->islaidos }}</th>
                                 <th>{{ $account->accountStatus }}</th>
                             </tr>
                             @endcan

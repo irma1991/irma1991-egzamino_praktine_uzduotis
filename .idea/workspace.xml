@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9e61c76-e906-4787-8f9c-8ebbd4021e77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/pages/money_transfer.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel_projektas/app/Accounts.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/app/Accounts.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel_projektas/app/Http/Controllers/AccountsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/app/Http/Controllers/AccountsController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel_projektas/app/Http/Controllers/OperationsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/app/Http/Controllers/OperationsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/_partials/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/_partials/sidebar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/pages/money_transfer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel_projektas/app/Operations.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/app/Operations.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel_projektas/database/migrations/2020_03_31_080857_create_operations_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/database/migrations/2020_03_31_080857_create_operations_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel_projektas/database/migrations/2020_03_31_080956_create_accounts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/database/migrations/2020_03_31_080956_create_accounts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/pages/money_transfer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/pages/money_transfer.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/pages/user_account.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/resources/views/egzaminas/pages/user_account.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel_projektas/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel_projektas/routes/web.php" afterDir="false" />
     </list>
@@ -164,7 +164,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585586932734</updated>
       <workItem from="1585586934055" duration="2881000" />
-      <workItem from="1585632361154" duration="20467000" />
+      <workItem from="1585632361154" duration="27497000" />
     </task>
     <servers />
   </component>

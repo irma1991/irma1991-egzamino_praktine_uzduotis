@@ -19,6 +19,8 @@ class CreateAccountsTable extends Migration
             $table->string('surname');
             $table->string('accountNumber');
             $table->decimal('accountBalance', 5, 2);
+            $table->decimal('iplaukos');
+            $table->decimal('islaidos');
             $table->string('accountStatus');
             $table->integer('userId');
             $table->timestamps();

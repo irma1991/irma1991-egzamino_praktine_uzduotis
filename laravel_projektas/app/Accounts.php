@@ -13,6 +13,8 @@ class Accounts extends Model
         'surname',
         'accountNumber',
         'accountBalance',
+        'iplaukos',
+        'islaidos',
         'accountStatus',
         'userId'
     ];

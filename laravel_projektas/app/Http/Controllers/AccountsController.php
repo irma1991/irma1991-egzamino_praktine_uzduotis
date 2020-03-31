@@ -14,8 +14,10 @@ class AccountsController extends Controller
         $account = Accounts::create([
             'name' => 'Irma',
             'surname' => 'Linartaite',
-            'accountNumber' => 'LT601010012345678901',
+            'accountNumber' => 'LT601010012345699999',
             'accountBalance' => '500',
+            'iplaukos' => '0',
+            'islaidos' => '0',
             'accountStatus' => 'Main account',
             'userId' => Auth::id()
         ]);
@@ -23,8 +25,10 @@ class AccountsController extends Controller
         $account2 = Accounts::create([
             'name' => 'Irma',
             'surname' => 'Linartaite',
-            'accountNumber' => 'LT601010012345694308',
+            'accountNumber' => 'LT601010012345633333',
             'accountBalance' => '500',
+            'iplaukos' => '0',
+            'islaidos' => '0',
             'accountStatus' => 'Other account',
             'userId' => Auth::id()
         ]);

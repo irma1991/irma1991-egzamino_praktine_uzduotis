@@ -41,24 +41,6 @@
                     <span>Operacijos</span>
                 </a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link " href="/category_management/">
-                    <i class="material-icons">table_chart</i>
-                    <span>Kategorijų valdymas</span>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link " href="/product_management/">
-                    <i class="material-icons">table_chart</i>
-                    <span>Produktų valdymas</span>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link " href="/orders_management/">
-                    <i class="material-icons">table_chart</i>
-                    <span>Užsakymų valdymas</span>
-                </a>
-            </li>
         </ul>
     </div>
 </aside>

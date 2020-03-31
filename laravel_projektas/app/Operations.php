@@ -8,10 +8,11 @@ class Operations extends Model
 {
     protected $fillable = [
         'id',
+        'userIdSender',
         'accountNumber',
         'accountStatus',
         'transferAmount',
-        'userIdSender',
-        'userIdrecipient'
+        'recipientName',
+        'recipientSurname'
     ];
 }

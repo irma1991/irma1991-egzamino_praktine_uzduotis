@@ -15,11 +15,12 @@ class CreateOperationsTable extends Migration
     {
         Schema::create('operations', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->integer('userIdSender');
             $table->string('accountNumber');
             $table->string('accountStatus');
             $table->decimal('transferAmount', 5, 2);
-            $table->integer('userIdSender');
-            $table->integer('userIdrecipient');
+            $table->string('recipientName');
+            $table->string('recipientSurname');
             $table->timestamps();
         });
     }
